@@ -1,9 +1,8 @@
 #!/bin/tclsh
 
-# set checkURL    "https://raw.githubusercontent.com/TomMajor/SmartHome/master/HB-TM-JP-AddOn-Reduced/CCU_RM/src/addon/VERSION"
-# set downloadURL "https://github.com/TomMajor/SmartHome/raw/master/HB-TM-JP-AddOn-Reduced/CCU_RM/hb-tm-jp-addon-reduced.tgz"
-set checkURL    ""
-set downloadURL ""
+set checkURL    "https://raw.githubusercontent.com/HMSteve/SG-HB-JP-Selection-AddOn/master/CCU_RM/src/addon/VERSION"
+set downloadURL "https://raw.githubusercontent.com/HMSteve/SG-HB-JP-Selection-AddOn/master/CCU_RM/sg-hb-jp-selection-addon.tgz"
+
 
 catch {
   set input $env(QUERY_STRING)

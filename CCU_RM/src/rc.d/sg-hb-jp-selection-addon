@@ -257,12 +257,12 @@ case "$1" in
     ;;
 
     info)
-	  echo "Info: <b>SG-HB-JP Selection AddOn</b><br>"
-	  echo "Info: <b>CCU2/3, RaspberryMatic</b><br>"
-	  echo "Info: (c) 2018-2020 jp112sdl<br>(c) 2019-2020 TomMajor<br>(c) 2022 HMSteve<br>"
-#	  echo "Info: <a href='https://github.com/TomMajor/SmartHome/tree/master/HB-TM-JP-AddOn-Reduced'>Projekt auf Github</a>"
+	  echo "Info: <center><b>SG-HB-JP Selection AddOn</b><br>"
+	  echo "Info: <center>(c) 2018-2020 jp112sdl<br>(c) 2019-2020 TomMajor<br>(c) 2022 HMSteve<br>"
+    echo "Info: <center>Creative Commons BY-NC-SA<br>"
+	  echo "Info: <center><a href='https://github.com/HMSteve/${ADDON_NAME}'>https://github.com/HMSteve/${ADDON_NAME}</a>"
 	  echo "Version: $(cat ${ADDON_DIR}/VERSION)"
-	  echo "Name: SG-HB-JP Selection AddOn"
+	  echo "Name: SG-HB-JP Selection"
 	  echo "Operations: uninstall"
       echo "Update: /addons/${ADDON_NAME}/update-check.cgi"
     ;;
