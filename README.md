@@ -16,7 +16,7 @@
 Vielen Dank an Jérôme und Tom für ihre Arbeit, die diese Geräte und deren Unterstützung durch weniger tief in die Homematic-Architektur Vorgedrungene erst möglich gemacht hat. :thumbsup: <br>
 
 
-:warning: Achtung, bitte entweder nur Jérômes JP-HB-Devices-addon oder das hier behandelte HB-TM-JP-AddOn-Reduced installieren, niemals beide AddOn gleichzeitig, das wird nicht funktionieren!
+:warning: Achtung, bitte entweder nur Jérômes JP-HB-Devices-addon oder das hier behandelte SG-HB-JP-Selection-AddOn installieren, niemals beide AddOn gleichzeitig, das wird nicht funktionieren!
 
 
 ## Change Log
