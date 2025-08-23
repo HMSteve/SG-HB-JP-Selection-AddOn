@@ -23,6 +23,8 @@ Vielen Dank an Jérôme und Tom für ihre Arbeit, die diese Geräte und deren Un
 
 - 1.2 - 30.06.2024
   - erste öffentliche Version.
+- 1.3 - 23.08.2025
+  - Config-Grenzen für Sendeintervall und Low-Batt bei HB-UNI-Sen-TEMP-DS18B2 erweitert, insb., um Betrieb mit einer NiMH-Zelle zu erlauben
 
 
 ## Lizenz
