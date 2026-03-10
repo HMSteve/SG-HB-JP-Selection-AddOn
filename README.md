@@ -5,6 +5,7 @@
 
 - Ein Stripdown von Jérômes [JP-HB-Devices-addon](https://github.com/jp112sdl/JP-HB-Devices-addon) zur Unterstützung nur der folgenden Projekte/Geräte:
   - [HB-Dis-EP-42BW](https://github.com/jp112sdl/HB-Dis-EP-42BW) (4,2" ePaper Display)
+  - [HB-Dis-EP-75BW](https://github.com/jp112sdl/HB-Dis-EP-75BW) (7,5" ePaper Display)
   - [HB-RC-12-EP](https://github.com/jp112sdl/HB-RC-12-EP) (12 Kanal Fernbedienung mit ePaper)
   - [HB-OU-MP3-LED](https://github.com/jp112sdl/HB-OU-MP3-LED) (Funkgong mit MP3-Wiedergabe und LED-Signalisierung)
   - [HB-UNI-Sen-DUMMY-BEACON-V2](https://github.com/jp112sdl/HB-UNI-Sen-DUMMY-BEACON-V2)
@@ -25,6 +26,8 @@ Vielen Dank an Jérôme und Tom für ihre Arbeit, die diese Geräte und deren Un
   - erste öffentliche Version.
 - 1.3 - 23.08.2025
   - Config-Grenzen für Sendeintervall und Low-Batt bei HB-UNI-Sen-TEMP-DS18B2 erweitert, insb., um Betrieb mit einer NiMH-Zelle zu erlauben
+- 1.4 - 10.03.2026
+  - Support für 7,5" ePaper Display ergänzt
 
 
 ## Lizenz
